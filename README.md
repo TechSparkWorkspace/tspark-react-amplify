@@ -75,4 +75,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 npx create-react-app tspark-react-amplify
 
-- Adding Git Actions
+- Adding Git Workflow
